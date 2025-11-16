@@ -1,4 +1,4 @@
-# SafeRouteAI – Real-Time Route Safety Advisor
+# SafeRouteAI – Multi-Agent Real-Time Route Safety Advisor
 
 A multi-agent AI system that analyzes route safety in real-time by combining crime data, weather conditions, traffic, time of day, and lighting conditions to provide safety recommendations.
 
