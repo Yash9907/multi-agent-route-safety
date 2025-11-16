@@ -1,0 +1,26 @@
+{
+  "session_id": "demo_session_3",
+  "created_at": "2025-11-16T21:20:24.123409",
+  "updated_at": "2025-11-16T21:20:47.915939",
+  "route_history": [
+    {
+      "timestamp": "2025-11-16T21:20:47.915923",
+      "start": "37.8715,-122.2730",
+      "destination": "37.8044,-122.2712",
+      "risk_score": 4.5,
+      "risk_level": "Moderate",
+      "distance_km": 8.24,
+      "duration_minutes": 15.2
+    }
+  ],
+  "user_preferences": {
+    "risk_tolerance": "low",
+    "preferred_route_type": "driving-car",
+    "alert_threshold": 3.0
+  },
+  "statistics": {
+    "total_routes_analyzed": 1,
+    "average_risk_score": 4.5,
+    "high_risk_routes": 0
+  }
+}

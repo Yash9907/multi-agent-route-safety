@@ -1,0 +1,16 @@
+{
+  "session_id": "demo_session_1",
+  "created_at": "2025-11-16T21:19:25.618986",
+  "updated_at": "2025-11-16T21:19:25.618992",
+  "route_history": [],
+  "user_preferences": {
+    "risk_tolerance": "medium",
+    "preferred_route_type": "driving-car",
+    "alert_threshold": 4.0
+  },
+  "statistics": {
+    "total_routes_analyzed": 0,
+    "average_risk_score": 0.0,
+    "high_risk_routes": 0
+  }
+}
