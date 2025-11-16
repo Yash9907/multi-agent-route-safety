@@ -1,5 +1,14 @@
 # SafeRouteAI – Multi-Agent Real-Time Route Safety Advisor
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue" />
+  <img src="https://img.shields.io/badge/AI-Multi--Agent System-green" />
+  <img src="https://img.shields.io/badge/Google AI-Agent SDK-orange" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+</p>
+
+
 A multi-agent AI system that analyzes route safety in real-time by combining crime data, weather conditions, traffic, time of day, and lighting conditions to provide safety recommendations.
 
 ## 🌟 Project Overview
